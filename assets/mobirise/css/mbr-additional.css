@@ -1762,6 +1762,9 @@ body {
     margin: 1rem 0 0 0;
   }
 }
+.cid-rsBwPTpK9Z H2 {
+  color: #ff7707;
+}
 .cid-rsByeKTtIu {
   padding-top: 30px;
   padding-bottom: 15px;
@@ -1801,6 +1804,9 @@ body {
     text-align: center;
     margin: 1rem 0 0 0;
   }
+}
+.cid-rsByeKTtIu H2 {
+  color: #ff7707;
 }
 .cid-rsByQHN9B5 {
   padding-top: 45px;
@@ -1844,6 +1850,9 @@ body {
 }
 .cid-rsByQHN9B5 .cost {
   text-align: center;
+}
+.cid-rsByQHN9B5 H2 {
+  color: #ff7707;
 }
 .cid-rsBCRgSYnL {
   padding-top: 45px;
@@ -1891,6 +1900,9 @@ body {
 .cid-rsBCRgSYnL .cost {
   text-align: left;
 }
+.cid-rsBCRgSYnL H2 {
+  color: #ff7707;
+}
 .cid-rsBDwvKCDI {
   padding-top: 45px;
   padding-bottom: 15px;
@@ -1936,6 +1948,9 @@ body {
 }
 .cid-rsBDwvKCDI .cost {
   text-align: left;
+}
+.cid-rsBDwvKCDI H2 {
+  color: #ff7707;
 }
 .cid-rsBDJJSLPf {
   padding-top: 45px;
@@ -1983,6 +1998,9 @@ body {
 .cid-rsBDJJSLPf .cost {
   text-align: left;
 }
+.cid-rsBDJJSLPf H2 {
+  color: #ff7707;
+}
 .cid-rsBE7ow656 {
   padding-top: 45px;
   padding-bottom: 15px;
@@ -2028,6 +2046,9 @@ body {
 }
 .cid-rsBE7ow656 .cost {
   text-align: left;
+}
+.cid-rsBE7ow656 H2 {
+  color: #ff7707;
 }
 .cid-rsBEgyVeRn {
   padding-top: 45px;
@@ -2075,6 +2096,9 @@ body {
 .cid-rsBEgyVeRn .cost {
   text-align: left;
 }
+.cid-rsBEgyVeRn H2 {
+  color: #ff7707;
+}
 .cid-rsBFVW6a07 {
   padding-top: 45px;
   padding-bottom: 15px;
@@ -2120,6 +2144,9 @@ body {
 }
 .cid-rsBFVW6a07 .cost {
   text-align: left;
+}
+.cid-rsBFVW6a07 H2 {
+  color: #ff7707;
 }
 .cid-rsBLfbqA8L {
   padding-top: 15px;
@@ -2293,6 +2320,29 @@ body {
 }
 .cid-rsBYm8qNsE H2 {
   color: #ff7707;
+}
+.cid-rsC40KUCkz {
+  background: #ffffff;
+}
+.cid-rsC40KUCkz .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rsC40KUCkz .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rsC40KUCkz figcaption {
+  position: relative;
+}
+.cid-rsC40KUCkz figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rsC40KUCkz .image-block {
+    width: 100% !important;
+  }
 }
 .cid-rsAPGl9JWQ {
   background-image: url("../../../assets/images/grass-hube-1-1210x653.png");
