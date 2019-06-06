@@ -44,7 +44,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "SO500I",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -419,7 +419,7 @@
     "page2.html": {
       "settings": {
         "meta_descr": "Web Builder Description",
-        "title": "Page 2",
+        "title": "S300",
         "order": 2
       },
       "components": [
@@ -1473,7 +1473,7 @@
     "page3.html": {
       "settings": {
         "meta_descr": "Website Generator Description",
-        "title": "alle robos",
+        "title": "2019",
         "order": 1
       },
       "components": [
